@@ -7,9 +7,9 @@ In this process, we follow standardised Data Science methodology involving data 
 
 # *Objectives*
 
-    1) To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and          thus determine the cost of a launch.
-    2) Explore the data in order to obtain more insight from the data.
-    3) A business report to be shown to relevant stakeholders
+    -> To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and          thus determine the cost of a launch.
+    -> Explore the data in order to obtain more insight from the data.
+    -> A business report to be shown to relevant stakeholders
 
-# *tools used*
+# *Tools and technology used*
 SQL, Plotly Dash, Folium, Jupyter
